@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["djsounddog@gmail.com"]
 
   spec.summary       = %q{Oxford comma serial list generator}
-  spec.description   = %q{Returns an oxford comma separated string for a given csv, array, or list}
+  spec.description   = %q{Returns an oxford comma separated string for a given array, (csv, or list:COMMING SOON)}
   spec.homepage      = "https://github.com/djsounddog/listi"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
